@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+QUERY:
+what do you know about me
+
+RESULTS:
+{'id': 1, 'content': 'my name is darshan', 'type': 'fact', 'confidence': 0.9, 'turn': 1, 'last_used': 1}
+{'id': 2, 'content': 'i prefer hindi', 'type': 'preference', 'confidence': 0.9, 'turn': 2, 'last_used': 2}
+{'id': 3, 'content': 'i live in mumbai', 'type': 'fact', 'confidence': 0.9, 'turn': 3, 'last_used': 3}
+{'id': 4, 'content': 'my favorite tech is ai', 'type': 'preference', 'confidence': 0.9, 'turn': 4, 'last_used': 4}
+=======
+QUERY:
+what do you know about me
+
+RESULTS:
+{'id': 1, 'content': 'my name is darshan', 'type': 'fact', 'confidence': 0.9, 'turn': 1, 'last_used': 1}
+{'id': 2, 'content': 'i prefer hindi', 'type': 'preference', 'confidence': 0.9, 'turn': 2, 'last_used': 2}
+{'id': 3, 'content': 'i live in mumbai', 'type': 'fact', 'confidence': 0.9, 'turn': 3, 'last_used': 3}
+{'id': 4, 'content': 'my favorite tech is ai', 'type': 'preference', 'confidence': 0.9, 'turn': 4, 'last_used': 4}
+>>>>>>> ddf6092 (Initial MemoryFlow submission)

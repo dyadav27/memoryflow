@@ -1,0 +1,8 @@
+!classifier/
+memory.db
+__pycache__/
+venv/
+*.bin
+*.pt
+*.safetensors
+*.sqlite
