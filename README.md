@@ -102,4 +102,6 @@ After injecting **1,000+ random/noisy memories**, the system maintains a 100% re
 ## 👤 Author
 
 **Darshan Yadav**
+**Sarang Patil**
+**Pranav Patil**
 
